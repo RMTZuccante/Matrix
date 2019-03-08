@@ -1,0 +1,1 @@
+{"CAMERA_LEFT": "1", "CAMERA_RIGHT": "0", "THRESH": "66", "MAX_AREA": "10000", "MIN_AREA": "500", "ref": ["H", "S", "U"], "OFFSET": "2", "PRECISION":"0.99", "LIBPATH":"/home/pi/Robotics/opencv-3.4.5/build/lib", "DISTWALL":100, "BODYTEMP":100}
